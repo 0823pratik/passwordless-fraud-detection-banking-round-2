@@ -67,3 +67,7 @@ Here it depends on the system, generally it is on 8501 port.
 ##  Conclusion
 
 This solution meets **all requirements**—fraud detection, continuous authentication, adaptive risk scoring, passwordless user experience, explainable and auditable logic.
+
+Copyright (c) 2025 Pratik Raj.  
+All rights reserved. Use of this code is prohibited without explicit written permission from the author.  
+If permission is granted, proper credit must be given to Pratik Raj in any use or distribution.
