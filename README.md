@@ -15,10 +15,10 @@ BankSecure is a comprehensive, passwordless fraud prevention system for digital 
 ## Quick Start
 
 ### Installation
-`git clone https://github.com/0823pratik/passwordless-fraud-detection-banking-round-2.git`
-`cd passwordless-fraud-detection-banking-round-2`
-`pip install streamlit pandas numpy plotly`
-`streamlit run app.py`
+`git clone https://github.com/0823pratik/passwordless-fraud-detection-banking-round-2.git` \\
+`cd passwordless-fraud-detection-banking-round-2` \\
+`pip install streamlit pandas numpy plotly`\\
+`streamlit run app.py`\\
 
 ### Usage
 1. Open browser to `http://localhost:8501`
