@@ -64,6 +64,8 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run app.py
+# OR
+python -m streamlit run app.py
 ```
 
 ---
@@ -133,4 +135,5 @@ To use, reproduce, or modify any part of this project, **explicit permission is 
  Request access by emailing: [pratik08raj@gmail.com](mailto:pratik08raj@gmail.com)  
  Or create an issue in the repository to initiate a request.
  
+
 
