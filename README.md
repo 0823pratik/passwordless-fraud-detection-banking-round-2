@@ -68,7 +68,7 @@ streamlit run app.py
 
 ---
 
-## ⚠ Demo Modes
+##  Demo Modes
 
 The system supports the following **attack scenario modes**:
 
@@ -115,10 +115,22 @@ Set them via interface or code to simulate specific threat vectors.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 BankSecure delivers high-performance, real-time fraud detection using practical security measures and cutting-edge behavioral intelligence.
 
  100% Production Ready  
  Industry-leading Accuracy  
  Multi-Channel Alerting
+
+---
+
+##  Note
+
+This code is the intellectual property of the repository owner, **Pratik Raj**.  
+To use, reproduce, or modify any part of this project, **explicit permission is required**.
+
+ Request access by emailing: [pratik08raj@gmail.com](mailto:pratik08raj@gmail.com)  
+ Or create an issue in the repository to initiate a request.
+ 
+
