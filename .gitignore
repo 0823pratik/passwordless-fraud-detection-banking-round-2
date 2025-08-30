@@ -1,0 +1,4 @@
+finshield/
+__pycache__/
+*.pyc
+.env
